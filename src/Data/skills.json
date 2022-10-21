@@ -1,0 +1,37 @@
+{
+  "frontend": [
+    { "name": "Microfrontends", "value": 100 },
+    { "name": "React", "value": 95 },
+    { "name": "Angular", "value": 55 },
+    { "name": "JavaScript (Vanilla)", "value": 85 }
+  ],
+  "backend": [
+    { "name": ".Net Core (C#)", "value": 100 },
+    { "name": "Node", "value": 80 },
+    { "name": "Serverless", "value": 70 },
+    { "name": "Microservices", "value": 98 },
+    { "name": "JAVA Springboot", "value": 20 }
+  ],
+  "mobile": [
+    { "name": "React Native", "value": 40 },
+    { "name": "Xamarin", "value": 10 }
+  ],
+  "other": [
+    "Terraform",
+    "GraphQL",
+    "Webpack",
+    "Docker",
+    "IoC",
+    "Azure",
+    "AWS",
+    "Google CLoud",
+    "Iaas/PaaS",
+    "CI/CD",
+    "GIT",
+    "Unit Testing",
+    "Wireframing",
+    "Storybook",
+    "Photoshop",
+    "Zeplin"
+  ]
+}

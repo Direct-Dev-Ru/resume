@@ -1,0 +1,191 @@
+[
+  {
+    "title": "Director",
+    "duration": "Feb 2022 - Present",
+    "company": "CapTech Consulting",
+    "description": "Partnering with executive leadership to help define the direction, roadmap, and timeline of product delivery. Helping guide enterprise architecture to modern, lean, and high performance deliveries. Principal architect and team lead for clients in a variety of markets. Coach and mentor of multiple direct reports between senior engineer and senior managers. Leader and speaker of internal and client related educational events.",
+    "roles": ["Modern Web Lead"],
+    "awards": [],
+    "achievements": [],
+    "technologies": [
+      "AWS",
+      "Azure",
+      "Cloud Architecture",
+      ".Net Core",
+      "Serverless",
+      "RESTful APIs",
+      "Microfrontends",
+      "Microservices",
+      "GraphQL",
+      "React",
+      "NextJS",
+      "Remix",
+      "Tailwind",
+      "Node"
+    ]
+  },
+  {
+    "title": "Principal",
+    "duration": "July 2020 - Feb 2022",
+    "company": "Slalom Build",
+    "description": "A member of the Denver Build Leadership team focused on building strong architects and amazing products for our clients. I lead multiple discoveries to understand and design the future architecture for two major players in the digital streaming space. I also lead a multiple discovery and build phases to re-platform monolithic application into maintainable and scalable serverless platforms. I also manage the Denver Build Modern Web Capability, getting engineers excited and engaged in the latest and greatest in the frontend engineering space.",
+    "roles": ["Denver Modern Web Lead"],
+    "awards": [],
+    "achievements": [],
+    "technologies": [
+      "AWS",
+      "Azure",
+      "Cloud Architecture",
+      ".Net Core",
+      "Serverless",
+      "RESTful APIs",
+      "Microfrontends",
+      "Microservices",
+      "GraphQL",
+      "Angular",
+      "React",
+      "Node",
+      "SqlServer",
+      "HTML/SASS"
+    ]
+  },
+  {
+    "title": "Solution Architect",
+    "duration": "Mar 2018 - July 2020",
+    "company": "Slalom Build",
+    "description": "Design, develop, and deliver software solutions for numerous companies in varying industries. I love to partner with a company, learn their struggles, and become part of the solution. I am a proponent of PEM. I specialize in modern frontend development using React and Angular. I design and build performant and scalable .net core, node, and java micro-services. I deploy to PaaS or Container oriented infrastructures in cloud providers Azure and AWS.",
+    "roles": ["Denver Modern Web Lead", "Denver Intern Tech Lead"],
+    "awards": [
+      "2019 Q2 Slalom Team Mogul Winner",
+      "2018 Q3 Slalom Mogul Winner",
+      "2018 Summer Hackathon Winner"
+    ],
+    "achievements": [],
+    "technologies": [
+      "AWS",
+      "Azure",
+      ".Net Core",
+      "Serverless",
+      "RESTful APIs",
+      "Microservices",
+      "Angular",
+      "React",
+      "Node",
+      "Springboot",
+      "SqlServer",
+      "HTML/SASS"
+    ]
+  },
+  {
+    "title": "Lead Software Engineer",
+    "duration": "Jul 2016 - Mar 2018",
+    "company": "Convercent",
+    "description": "I joined a small startup called Convercent to help break down their aging monolith platform into the next generation of microservices. After about a year, i was given my own team to work purely on skunkworks projects. This was extremely fun as I was free to apply technology to solve problems within the company or pave way for new revenue.",
+    "roles": [],
+    "awards": [],
+    "achievements": [
+      "Built a two-way SMS Conversation API",
+      "Perfected my microservice architecture leveraging composition root"
+    ],
+    "technologies": [
+      "Azure",
+      ".Net Core",
+      "Microservices",
+      "Angular",
+      "SqlServer",
+      "MongoDB",
+      "HTML/SASS",
+      "RESTful APIs"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer",
+    "duration": "Nov 2015 - Jul 2016",
+    "company": "Ria Financial",
+    "description": "I fulfilled senior software engineer with lead and architecture responsibilities. We maintained a stack which includes an AngularJS frontend, two .Net Core RC1 services and an internal WebApi service used for content delivery. When I am not mentoring developers; I split my time up between frontend and architectural work. During my time at Ria; I brought in proper logging, more standardized restful services, various base angularjs components, proper application structures, generic global error handling, client-side content management services, and more traditional DI patterns. Outside of the development stack; I helped migrate the team to GIT, organize and run various scrum ceremonies, as well as assist in management of branches and releases.",
+    "roles": [],
+    "awards": [],
+    "achievements": [
+      "Designed, Developed, and Deployed my own .net core microservice architecture and perfected my composition root pattern."
+    ],
+    "technologies": [
+      ".Net Core",
+      "Microservices",
+      "React",
+      "HTML/SASS",
+      "RESTful APIs"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer",
+    "duration": "Jun 2014 - Nov 2015",
+    "company": "Chipotle Mexican Grill",
+    "description": "My responsibilities included mentoring developers, defining best practices, release planning, and ensuring high code quality with 80% (or better) code coverage. I was in the architecture committee and defined timelines for infrastructure enhancements. I designed and implemented the advanced branching model and release structure using TFS 2013 and Microsoft Release Management. This included nightly builds, continuous integration, gated check-ins, gated releases, and project structure/coding standards. I also mentored team members in best practices and helped career progression. In the short time I was at Chipotle, I changed their release requirements, code quality, and what they consider \"clean\" and \"elegant\" code.",
+    "roles": [],
+    "awards": [],
+    "achievements": [
+      "Google Maps Search API: RESTful service (webapi) for using Google Maps Geolocation",
+      "Generic Repository: Generic Repository that can use MongoDB or Entity Framework",
+      "Environment Monitor: Monitors environments as services are deployed to ensure stability "
+    ],
+    "technologies": []
+  },
+  {
+    "title": "Senior Software Engineer",
+    "duration": "",
+    "company": "ProLink Solutions",
+    "description": "I was part of a New Development group responsible for a client facing MVC4 Bootstrap application. I took part in various architectural discussions and decisions while helping to set standards for application development. I helped mentor new developers and ensure code pushes and releases contained quality code with minimal risk. I was also a part of several other development teams which are still on an ASP.NET C# platform but with a more advanced MVC/MVVM pattern. I also helped to standardize some of the development processes and have shown to increase the speed and quality of more than one project in the company.",
+    "roles": [],
+    "awards": [],
+    "achievements": [],
+    "technologies": []
+  },
+  {
+    "title": "Senior Software Engineer",
+    "duration": "",
+    "company": "Fetter Logic, LLC",
+    "description": "I built and maintained client facing applications on the new product development team for new business ventures in the account opening market. Technologies include ASP.NET, WCF Services, and restful services. I was part of the architecture committee and have instituted a MVC design pattern in one of the ASP.NET applications. I began working on enhancements and performance work on a data warehouse application written in ASP.NET which then was handed off to a development team to maintain.",
+    "roles": [],
+    "awards": [],
+    "achievements": [],
+    "technologies": []
+  },
+  {
+    "title": "Senior Software Engineer",
+    "duration": "",
+    "company": "BlackBox Logic, LLC",
+    "description": "I lead the .Net Development group and architecture group. I built and maintained several front end systems in WPF, ASP.NET, and Windows Services for use with a backend library based loan processing platform. Built and maintained loan aggregation platform using C# 4.0 leveraging multi-threaded and Parallel Processing based data loading. I was also responsible for transferring data roles from the old legacy system over to my new platform and training the team on the new responsibilities for the new platform. Processing times went from hours to minutes across data feeds as large as 28 million records by 600+ columns per monthly feeds. At the time of my departure, our product had over a billion rows of monthly data which was used on trade desks for bond investments. I was also responsible for seeking talent and creating a development team of which I managed. We followed the scrum methodology.",
+    "roles": [],
+    "awards": [],
+    "achievements": [],
+    "technologies": []
+  },
+  {
+    "title": "Software Engineer",
+    "duration": "",
+    "company": "ProLink Solutions",
+    "description": "A little startup out of Greenwood Village was really where I found my first mentor, Adam Berhle. I learned a lot here as a young dot net junior engineer with only a couple years under my belt building internal tools. This is where I would build my first product and production ready application. This was my first taste of a company becoming my family. ",
+    "roles": [],
+    "awards": [],
+    "achievements": [],
+    "technologies": [
+      "MVC",
+      "C# .Net",
+      "Sql Server",
+      "AngularJS",
+      "WCF",
+      "REST",
+      "Code Generation"
+    ]
+  },
+  {
+    "title": "Software Engineer",
+    "duration": "",
+    "company": "Ticketmaster Entertainment",
+    "description": "This is where I got my start. I applied online to a help desk position where I worked for 2 years before transitioning into a developer role. As a developer, I wrote tools to help the helpdesk become faster, more accurate, and more predictable. I got a lot of great experience and I am quite grateful for this job.",
+    "roles": [],
+    "awards": [],
+    "achievements": [],
+    "technologies": ["MVC", "C# .Net", "Sql Server"]
+  }
+]

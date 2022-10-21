@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Infantry",
+    "role": "Founder",
+    "description": "Performance and load testing using GoLang's concurrency.",
+    "href": "https://github.com/cfryerdev/infantry"
+  },
+  {
+    "title": "Stonk Intern",
+    "role": "Founder",
+    "description": "Stock survival game using randomization, written in React.",
+    "href": "http://www.stonkintern.com/"
+  },
+  {
+    "title": "ZeroSlope",
+    "role": "Founder",
+    "description": "Multi-language lean microservice accelerator architectures and modern web standards.",
+    "href": "https://zeroslope.dev/"
+  },
+  {
+    "title": "Artillery.io",
+    "role": "Contributor",
+    "description": "I am an active contributor to artillery, contributing starter kits, a report viewer, and much more...",
+    "href": "https://github.com/artilleryio"
+  },
+  {
+    "title": "BlackSlope",
+    "role": "Contributor",
+    "description": "I have contributed global error handling, health pages, and other standards to the platform.",
+    "href": "https://github.com/SlalomBuild/blackslope.net"
+  }
+]
